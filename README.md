@@ -17,5 +17,5 @@ Then reload source so your new alias is registered in your termial instance:
 ### Execute
 Now type `whatyoutypeintoterminaltoexecutealias` into terminal, the script will be executed.
 
-#### Help
+### Help
 For further usage instructions, pass the '-help' parameter.
