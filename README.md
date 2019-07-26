@@ -6,13 +6,14 @@ Place this script on your machine, give it execute permissions, then add an alia
 
 ### Adding Alias
 For instance go into ~/.zsh/aliases.zsh and add an alias line.
-  alias whatyoutypeintoterminaltoexecutealias='~/directory/directory/filename.sh'
+
+`alias whatyoutypeintoterminaltoexecutealias='~/directory/directory/filename.sh'`
 
 ### Reload Sourcefile To Load New Alias
 Then reload source so your new alias is registered in your termial instance:
-  source ~/.zsh/aliases.zsh
+  `source ~/.zsh/aliases.zsh`
 
 ### Execute
-Then if you type 'whatyoutypeintoterminaltoexecutealias' into terminal, the script will be executed.
+Then if you type `whatyoutypeintoterminaltoexecutealias` into terminal, the script will be executed.
 
 For usage instruction pass the '-help' parameter.
