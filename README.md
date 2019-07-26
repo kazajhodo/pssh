@@ -11,9 +11,10 @@ For instance go into ~/.zsh/aliases.zsh and add an alias line.
 
 ### Reload Sourcefile To Load New Alias
 Then reload source so your new alias is registered in your termial instance:
-  `source ~/.zsh/aliases.zsh`
+
+`source ~/.zsh/aliases.zsh`
 
 ### Execute
-Then if you type `whatyoutypeintoterminaltoexecutealias` into terminal, the script will be executed.
+Now type `whatyoutypeintoterminaltoexecutealias` into terminal, the script will be executed.
 
 For usage instruction pass the '-help' parameter.
